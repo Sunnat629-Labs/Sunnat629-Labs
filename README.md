@@ -5,7 +5,7 @@
 ### Learn. Build. Connect. Grow.
 
 📍 **Location:** Bangladesh  
-🌐 **Website:** [sunnat629labs.com](https://sunnat629labs.com)  
+🌐 **Website:** [sunnat629labs.com](https://www.sunnat629labs.com/)  
 📆 **Est. 2020** • Empowering 2,500+ Developers
 
 ---
@@ -90,30 +90,46 @@ A sister community empowering Bangladeshi women to gain confidence, skills, and 
 
 ---
 
-## Technical Focus Areas
+## Technical Expertise & Resources
 
-- **Languages:** [Kotlin](https://kotlinlang.org/), [Java](https://www.java.com/), [Swift](https://swift.org/), [Dart](https://dart.dev/)
-- **Platforms:** [Android](https://developer.android.com/), [iOS](https://developer.apple.com/), [Flutter](https://flutter.dev/), [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
-- **UI Frameworks:** [Jetpack Compose](https://developer.android.com/jetpack/compose), [SwiftUI](https://developer.apple.com/xcode/swiftui/), [Material Design](https://material.io/)
-- **Architecture:** MVVM, Clean Architecture, MVI
-- **AI & ML:** [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [ML Kit](https://developers.google.com/ml-kit)
+At Sunnat629 Labs, our community offers expertise across multiple domains and technologies:
 
----
+### Mobile Development
 
-## Our Impact
+- **Android:** [Kotlin](https://kotlinlang.org/) & [Java](https://www.java.com/)
+  development, [Jetpack Compose](https://developer.android.com/jetpack/compose), Material Design
+- **iOS:** [Swift](https://swift.org/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/) development
+- **Cross-Platform:
+  ** [Flutter](https://flutter.dev/) & [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 
-- **300% Growth Year-over-Year**
-- **Top-Rated Educational Platform**
-- **Global Community Spanning 50+ Countries**
+### Architecture & Best Practices
+
+- Modern architecture patterns (MVVM, MVI, Clean Architecture)
+- Dependency injection & modularization
+- Testing strategies & TDD
+- CI/CD & DevOps for mobile
+
+### Emerging Technologies
+
+- **AI & ML:
+  ** [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [ML Kit](https://developers.google.com/ml-kit)
+- **AR/VR:** Mobile AR experiences & immersive applications
+- **IoT:** Connected device integration & smart solutions
+
+### Learning Resources
+
+- Comprehensive workshops & bootcamps
+- Hands-on code labs & project templates
+- Technical mentorship & career guidance
+- Conference talks & industry best practices
 
 ---
 
 ## Connect With Us
 
 - **GitHub:** [sunnat629](https://github.com/sunnat629)
-- **LinkedIn:** [Sunnat629 Labs](https://www.linkedin.com/company/sunnat629labs)
-- **Twitter:** [@sunnat629labs](https://twitter.com/sunnat629labs)
-- **Medium:** [Sunnat629 Labs](https://medium.com/@sunnat629labs)
+- **LinkedIn:** [Sunnat629 Labs](https://www.linkedin.com/company/sunnat629-labs)
+- **Facebook:** [Sunnat629 Labs](https://www.facebook.com/sunnat629.labs)
 
 ---
 
@@ -124,7 +140,7 @@ A sister community empowering Bangladeshi women to gain confidence, skills, and 
 **Founder**  
 Sr. Software Engineer | Tech Speaker | Community Leader | Author
 
-[LinkedIn](https://www.linkedin.com/in/sunnat629) | [Twitter](https://twitter.com/sunnat629) | [Personal Website](https://sunnat629.dev)
+[GitHub](https://github.com/sunnat629) | [LinkedIn](https://www.linkedin.com/in/sunnat629) | [Personal Website](https://sunnat629.dev)
 
 ---
 
